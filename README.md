@@ -4,7 +4,9 @@
 <p>:telescope: Aims:</p>
 <p>:heavy_check_mark: Train React features (Components and Hooks), fetching data from API and anything else that come up my mind :relaxed:</p>
 <hr />
-- [x] <h2>Todos:</h2>
+<h2>Todos:</h2>
 <p> - [x] Initialize & Setup </p>
 <p> - [x] Config git and packages</p>
 <p> - [ ] Development </p>
+
+<hr />
