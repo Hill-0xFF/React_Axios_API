@@ -8,6 +8,6 @@
 
 <p> - [x] Initialize & Setup </p>
 <p> - [x] Config git and packages</p>
-<p> - [ ] Development </p>
+<p> - [ ] Development: </p>
 
 <hr />
